@@ -1,0 +1,8 @@
+# Janus API 配置
+JANUS_API_KEY=your_janus_api_key
+JANUS_API_URL=https://api.janus.com/v1
+
+# Shopify API 配置
+SHOPIFY_SHOP_NAME=your-shop-name
+SHOPIFY_ADMIN_ACCESS_TOKEN=your_admin_access_token
+SHOPIFY_STOREFRONT_TOKEN=your_storefront_token
